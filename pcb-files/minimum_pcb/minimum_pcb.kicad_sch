@@ -7267,16 +7267,96 @@
 		(uuid "faaca76f-8532-4966-9d72-f3d720c4cfde")
 	)
 	(no_connect
+		(at 160.02 102.87)
+		(uuid "056ca52d-a6b8-4588-a84c-a18a8c5113e3")
+	)
+	(no_connect
+		(at 203.2 135.89)
+		(uuid "1c88c178-f9fd-4f05-837c-18958efa15d4")
+	)
+	(no_connect
 		(at 46.99 148.59)
 		(uuid "3b05a567-9b5e-40ca-96f0-343ee573b7d4")
+	)
+	(no_connect
+		(at 124.46 135.89)
+		(uuid "42d0bde7-7e14-44bd-bafc-968b1adc8e0b")
+	)
+	(no_connect
+		(at 124.46 110.49)
+		(uuid "44f2c6bb-1a6d-440b-8181-86b8998bce33")
+	)
+	(no_connect
+		(at 124.46 120.65)
+		(uuid "4893daf4-5669-4fd7-b849-66908a059500")
+	)
+	(no_connect
+		(at 124.46 113.03)
+		(uuid "6165860f-a995-44a3-a06d-30aa9d76027e")
 	)
 	(no_connect
 		(at 46.99 179.07)
 		(uuid "63664618-92b0-4c85-b985-f97a67308b2c")
 	)
 	(no_connect
+		(at 160.02 97.79)
+		(uuid "6c809ea8-87cf-427e-9877-8cf94ff073a4")
+	)
+	(no_connect
+		(at 203.2 133.35)
+		(uuid "714e7f1b-6e17-421f-bfed-caecf8695745")
+	)
+	(no_connect
+		(at 160.02 113.03)
+		(uuid "757b6d98-79e2-4450-a97a-967381be42c3")
+	)
+	(no_connect
+		(at 160.02 105.41)
+		(uuid "7e8c7c8a-8045-467e-8920-016872d7f2dd")
+	)
+	(no_connect
 		(at 46.99 176.53)
 		(uuid "81a67f30-1e66-4e16-9ae3-a9ef63e454aa")
+	)
+	(no_connect
+		(at 160.02 115.57)
+		(uuid "8455f81d-37e8-4033-b715-00db61a0c83b")
+	)
+	(no_connect
+		(at 124.46 115.57)
+		(uuid "8e806edb-7a6e-48e4-a459-94e5d4285868")
+	)
+	(no_connect
+		(at 160.02 107.95)
+		(uuid "8fff6b01-a198-47cf-8de1-c7d3e5814caa")
+	)
+	(no_connect
+		(at 124.46 130.81)
+		(uuid "95397343-88a3-43cf-be79-b10d1d39d3f2")
+	)
+	(no_connect
+		(at 160.02 100.33)
+		(uuid "9c977e94-0e4b-4df9-aae1-12e7822a44f9")
+	)
+	(no_connect
+		(at 124.46 125.73)
+		(uuid "c33f4dc4-492e-418b-bc02-4edb2bc8f432")
+	)
+	(no_connect
+		(at 203.2 138.43)
+		(uuid "c5815764-5dfe-4e82-a7c2-828f83c46a74")
+	)
+	(no_connect
+		(at 160.02 110.49)
+		(uuid "d06ddf60-892e-43a0-96fe-28be8338fcaf")
+	)
+	(no_connect
+		(at 203.2 130.81)
+		(uuid "d90317a4-211d-4bbe-bbb5-e9af350cb4c1")
+	)
+	(no_connect
+		(at 160.02 118.11)
+		(uuid "e65c0129-ce7c-4374-a2bc-eba0c9f361a3")
 	)
 	(wire
 		(pts
@@ -8788,16 +8868,6 @@
 		)
 		(uuid "be923200-8cfb-4cb7-9e17-21eee69afab9")
 	)
-	(label "Debug Pins"
-		(at 210.82 120.65 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "c12cc3c5-6e43-4fec-ba80-2774769ffba4")
-	)
 	(label "EXTRA_GPIO_5"
 		(at 124.46 156.21 180)
 		(effects
@@ -10036,7 +10106,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x05_Pin"
+		(property "Value" "DEBUG_PINS"
 			(at 201.676 125.476 0)
 			(show_name no)
 			(do_not_autoplace no)

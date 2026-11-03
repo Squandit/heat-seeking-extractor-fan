@@ -1,34 +1,35 @@
 Reference,Qty,Value,,Name,Unit Price ($USD),,Line total,Link
-BZ1,1,Buzzer,,,,,,
+BZ1,1,Buzzer,,,0.73,,0.73,https://www.digikey.com.au/en/products/detail/tdk/PS1240P02BT/935924
 C4,1,4.7 μF,,,0.43,,0.43,https://www.digikey.com.au/en/products/detail/tdk/FG28X5R1E475KRT06/5803191
 "C5,C7",2,1uF,,,0.35,,0.7,https://www.digikey.com.au/en/products/detail/tdk/FG28X7R1E105KRT06/5803197
 "C1,C2,C3,C6,C8,C9",6,100nF,,,0.23,,1.38,https://www.digikey.com.au/en/products/detail/tdk/FG28X7R1H104KNT00/7326852
-"C10,C11",2,20pF,,,0.45,,0.9,https://www.digikey.com.au/en/products/detail/vishay-beyschlag-draloric-bc-components/S200K25SL0N63L6R/2356801
-C12,1,100µF,,,,,,https://www.digikey.com.au/en/products/detail/kemet/ESL107M035AE3AA/7427056
-C13,1,470µF,,,,,,
-C14,1,22µF,,,,,,
-C15,1,10µF,,,,,,
-D1,1,SS34,,,,,,
-F1,1,Polyfuse 2A,,,,,,
-FB1,1,FerriteBead,,,,,,
-J1,1,Conn_01x05_Pin,,,,,,
-J2,1,SERVO_PAN,,,,,,
-J3,1,SERVO_TILT,,,,,,
-J4,1,Barrel_Jack,,,,,,
-J5,1,ON/OFF SWITCH,,,,,,
-J6,1,MP1584_MODULE,,,,,,
-J7,1,CAMERA,,,,,,
-J8,1,USB_C_CONN,,,,,,
-J9,1,EXTRA_GPIO,,Header pins (8x),,,,
-M1,1,Fan_4pin,,Noctua NF-A9 92mm,,,,
-Q1,1,Q_NPN_BEC,,,,,,
-RV1,,10K POT,,,,,,
-"R1,R3",3,10K,,,,,,
-R2,1,390,,,,,,
-R4,1,1k,,,,,,
-"R5,R6",2,2.2k,,,,,,
+"C10,C11",2,33pF,,,0.23,,0.46,https://www.digikey.com.au/en/products/detail/tdk/FG28C0G1H330JNT06/5803106
+C12,1,100µF,,,0.4,,0.4,https://www.digikey.com.au/en/products/detail/kemet/ESL107M035AE3AA/7427056
+C13,1,470µF,,,0.42,,0.42,https://www.digikey.com.au/en/products/detail/nichicon/UVR1C471MPD1TD/3438545
+C14,1,22µF,,,0.11,,0.11,https://www.digikey.com.au/en/products/detail/w%C3%BCrth-elektronik/860020572004/5727173
+C15,1,10µF,,,0.1,,0.1,https://www.digikey.com.au/en/products/detail/w%C3%BCrth-elektronik/860020372001/5727025
+D1,1,1N5822,,,0.71,,0.71,https://www.digikey.com.au/en/products/detail/taiwan-semiconductor-corporation/1N5822/7366597?srsltid=AYCX9vK3IC4pKZZh_6MJWnylxO5ZD3fWltWqH2jqN7ke_vrpzfDdTSgv
+F1,1,Polyfuse 2A,,,1.36,,1.36,https://www.digikey.com.au/en/products/detail/bourns-inc/MF-R250-2-10/2561672?srsltid=AYCX9vKnHuFLdj1vxGt8BlXot_ayCZ-zyFMBM4S4jQg64eSbQFYpBy4t
+FB1,1,FerriteBead,,,1.39,,1.39,https://www.digikey.com.au/en/products/detail/fair-rite-products-corp/2961666631/8593864?srsltid=AYCX9vL08Ujsw3Iyk3PYZYuK8HzwCNmO8lRBTw4YtL5ZTA0MU20qTZrM
+"J1, J9",1,HEADER_PINS,,,1.82,,1.82,https://www.digikey.com.au/en/products/detail/sullins-connector-solutions/prpc040saan-rc/2775214?_gl=1*1yjnbqu*_up*MQ..*_gs*MQ..&gclid=CjwKCAiAhqHXBhAXEiwATbksU5Kl3rIizOq5FwrouH81UN5KLb9p_i4dDanloCkQPG_MI3Z1l_jf5xoClyMQAvD_BwE&gclsrc=aw.ds
+J2,2,MG92B,,,17.65,,35.3,https://www.digikey.com.au/en/products/detail/adafruit-industries-llc/2307/5154686?gclsrc=aw.ds&gad_source=1&gad_campaignid=22234799474&gclid=CjwKCAiAhqHXBhAXEiwATbksU5ZB7gZUU1kJWoWlccjIdHLxykAZt5fuLDO_rAJP876JtkpoWzQCKxoCv40QAvD_BwE
+J4,1,Barrel_Jack,,,2.17,,2.17,https://www.digikey.com.au/en/products/detail/kycon-inc/KLDHCX-0202-A-LT/9990093?_gl=1*lav2nc*_up*MQ..*_gs*MQ..&gclid=CjwKCAiAhqHXBhAXEiwATbksU-k1MjmDOAfrKLMuTaudXJQdoRNmk4QuQJ2E4Q0ge6kWMbJS8ofx0hoC1q0QAvD_BwE&gclsrc=aw.ds
+J5,1,ON/OFF SWITCH,,,1,,1,https://www.digikey.com.au/en/products/detail/e-switch/RA11131121/2720267
+J6,1,MP1584_MODULE,,,2.22,,2.22,https://www.aliexpress.com/item/1005012605438006.html?src=google&src=google&albch=shopping&acnt=179-224-6891&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=_oFgTQeV&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en1005012605438006&ds_e_product_merchant_id=5852244380&ds_e_product_country=AU&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=23109426145&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=23109428320&gclid=CjwKCAiAhqHXBhAXEiwATbksU7sc6sJPk6I3g2q-kiPqKK1uaHH2X6AYp9LDiYEMk7vM7f-r_oBG-xoCFlMQAvD_BwE
+J7,1,CAMERA,,,40.9,,40.9,https://www.digikey.com.au/en/products/detail/melexis-technologies-nv/mlx90640esf-bab-000-tu/8638464
+J8,1,USB_C_CONN,,,1.18,,1.18,https://www.digikey.com.au/en/products/detail/gct/usb4105-gf-a/11198441
+M1,1,Fan_4pin,,Noctua NF-A9 92mm,24.59,,24.59,https://www.aliexpress.com/item/1005005336164153.html?src=google&src=google&albch=shopping&acnt=742-864-1166&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en1005005336164153&ds_e_product_merchant_id=5852244380&ds_e_product_country=AU&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=21819463808&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=21819486122&gclid=CjwKCAiAhqHXBhAXEiwATbksU_ycuZQFg08m7RTow3j9o7qaHQVa2eBf229ITE_8eFKkirNib_Aj1xoCpNsQAvD_BwE
+Q1,1,Q_NPN_BEC,,,0.41,,0.41,https://www.digikey.com.au/en/products/detail/onsemi/2N4401BU/1417
+RV1,1,10K POT,,,2.63,,2.63,https://www.digikey.com.au/en/products/detail/tt-electronics-bi/P120PK-Y25BR10K/5957454
+"R1,R3",3,10K,,,0.15,,0.45,https://www.digikey.com.au/en/products/detail/yageo/MFR25SFRF52-10K/9143010?srsltid=AYCX9vJjDAbD2fDtovu37wzhrrXyb3d-6sO97zoR0f6QL1puKdCeS7bn
+R2,1,390,,,0.15,,0.15,https://www.digikey.com.au/en/products/detail/yageo/MFR50SFTE52-390R/9151450?srsltid=AYCX9vJSFtWUOPrLQJnGAmcJOWPfM5qTyi_A7o3LpZjDft4kDkNnXit5
+R4,1,1k,,,0.18,,0.18,https://www.digikey.com.au/en/products/detail/yageo/MFR-50FRE52-1K/9145873?srsltid=AYCX9vIxaWvZ1Bh74s9Jd85ku6LvrTixIzYRaW-yb73GNpPTJcH_hyv4
+"R5,R6",2,2.2k,,,0.15,,0.3,https://www.digikey.com.au/en/products/detail/yageo/MF0207FRE52-2K2/9124942?srsltid=AYCX9vIq16C5-_kXbO72pLjVGnQOxb7oEUT5bYHHRvhkx-Wkhav5g3dW
 "R7,R8",2,5.1K,,,0.1,,0.2,https://www.digikey.com.au/en/products/detail/yageo/CFR-25JT-52-5K1/9098642
 SW1,1,SW_Push,,,0.95,,0.95,https://www.digikey.com.au/en/products/detail/schurter-inc/1301-9314/2643951
-U1,1,STM32G474CBTx,,,,,,
-U2,1,AMS1117-3.3,,,,,,
+U1,2,STM32G474CBTx,,,4.58,,9.16,https://www.lcsc.com/product-detail/C730123.html
+U2,1,AMS1117-3.3,,,0.61,,0.61,https://www.aliexpress.com/item/1005013357545983.html?spm=a2g0o.productlist.main.1.56496a33DmfS2Z&algo_pvid=97fd0262-8b64-4ce9-93cb-f25bc7a798e9&algo_exp_id=97fd0262-8b64-4ce9-93cb-f25bc7a798e9-0&pdp_ext_f={%22order%22%3A%22-1%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22}&pdp_npi=6%40dis!AUD!0.61!0.55!!!2.80!2.52!%4021030f8317936769623922533e0d15!12000060915761526!sea!AU!0!ABX!1!0!n_tag%3A-29910%3Bd%3Af94919a3%3Bm03_new_user%3A-29895&curPageLogUid=ionvZBwCZW15&utparam-url=scene%3Asearch|query_from%3A|x_object_id%3A1005013357545983|_p_origin_prod%3A
 X1,1,24 MHz,,,0.36,,0.36,https://www.digikey.com.au/en/products/detail/yic/24M20PI-49US/26811074
+J10,1,FAN_HEADER_PINS,,,0.56,,0.56,https://www.digikey.com.au/en/products/detail/molex/0470531000/2421261?srsltid=AYCX9vJqGVhPHkPZ6ayuzXTJtcWHAtBp21BWByyR2Zit7eMoDjz3QrmI
+,,,,,,,,
+,,,,,,Total:,132.77000000000004,
