@@ -1,0 +1,34 @@
+Reference,Qty,Value,,Name,Unit Price ($USD),,Line total,Link
+BZ1,1,Buzzer,,,,,,
+C4,1,4.7 μF,,,0.43,,0.43,https://www.digikey.com.au/en/products/detail/tdk/FG28X5R1E475KRT06/5803191
+"C5,C7",2,1uF,,,0.35,,0.7,https://www.digikey.com.au/en/products/detail/tdk/FG28X7R1E105KRT06/5803197
+"C1,C2,C3,C6,C8,C9",6,100nF,,,0.23,,1.38,https://www.digikey.com.au/en/products/detail/tdk/FG28X7R1H104KNT00/7326852
+"C10,C11",2,20pF,,,0.45,,0.9,https://www.digikey.com.au/en/products/detail/vishay-beyschlag-draloric-bc-components/S200K25SL0N63L6R/2356801
+C12,1,100µF,,,,,,https://www.digikey.com.au/en/products/detail/kemet/ESL107M035AE3AA/7427056
+C13,1,470µF,,,,,,
+C14,1,22µF,,,,,,
+C15,1,10µF,,,,,,
+D1,1,SS34,,,,,,
+F1,1,Polyfuse 2A,,,,,,
+FB1,1,FerriteBead,,,,,,
+J1,1,Conn_01x05_Pin,,,,,,
+J2,1,SERVO_PAN,,,,,,
+J3,1,SERVO_TILT,,,,,,
+J4,1,Barrel_Jack,,,,,,
+J5,1,ON/OFF SWITCH,,,,,,
+J6,1,MP1584_MODULE,,,,,,
+J7,1,CAMERA,,,,,,
+J8,1,USB_C_CONN,,,,,,
+J9,1,EXTRA_GPIO,,Header pins (8x),,,,
+M1,1,Fan_4pin,,Noctua NF-A9 92mm,,,,
+Q1,1,Q_NPN_BEC,,,,,,
+RV1,,10K POT,,,,,,
+"R1,R3",3,10K,,,,,,
+R2,1,390,,,,,,
+R4,1,1k,,,,,,
+"R5,R6",2,2.2k,,,,,,
+"R7,R8",2,5.1K,,,0.1,,0.2,https://www.digikey.com.au/en/products/detail/yageo/CFR-25JT-52-5K1/9098642
+SW1,1,SW_Push,,,0.95,,0.95,https://www.digikey.com.au/en/products/detail/schurter-inc/1301-9314/2643951
+U1,1,STM32G474CBTx,,,,,,
+U2,1,AMS1117-3.3,,,,,,
+X1,1,24 MHz,,,0.36,,0.36,https://www.digikey.com.au/en/products/detail/yic/24M20PI-49US/26811074
