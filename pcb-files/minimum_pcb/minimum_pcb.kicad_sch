@@ -7586,10 +7586,6 @@
 		(uuid "056ca52d-a6b8-4588-a84c-a18a8c5113e3")
 	)
 	(no_connect
-		(at 50.8 152.4)
-		(uuid "3b05a567-9b5e-40ca-96f0-343ee573b7d4")
-	)
-	(no_connect
 		(at 128.27 139.7)
 		(uuid "42d0bde7-7e14-44bd-bafc-968b1adc8e0b")
 	)
@@ -8669,6 +8665,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 152.4) (xy 53.34 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc6d4138-34bc-4d9f-a894-a7c8dceb690c")
+	)
+	(wire
+		(pts
 			(xy 128.27 109.22) (xy 116.84 109.22)
 		)
 		(stroke
@@ -9086,6 +9092,16 @@
 			(justify right)
 		)
 		(uuid "1a2e9a3e-8f5d-45be-ae4b-a7f49dcf5464")
+	)
+	(label "VBUS"
+		(at 53.34 152.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1b171825-6063-434f-b650-e17f3be1dc3a")
 	)
 	(label "EXTRA_GPIO_4"
 		(at 102.87 186.69 0)

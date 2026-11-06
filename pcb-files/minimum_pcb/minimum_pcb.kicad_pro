@@ -88,6 +88,26 @@
         [
           "hole_clearance|245670000|117550000|139ef3f2-160c-464e-be36-01d556f041be|ca17b817-1758-4a57-8f66-4b10208ddde8",
           ""
+        ],
+        [
+          "hole_clearance|245670000|117550000|8ac5ef26-10b2-41ba-b1c3-97dc21f41887|ca17b817-1758-4a57-8f66-4b10208ddde8",
+          ""
+        ],
+        [
+          "lib_footprint_issues|163382565|115367436|5e9458cd-5648-4ea1-8b19-859ece89e66e|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_edge_clearance|252500000|106100000|2dfe8b61-c174-45d8-b7aa-cdb71773778a|3badb2ec-a09d-46ec-b8b0-9f3a955d4396",
+          ""
+        ],
+        [
+          "silk_edge_clearance|252500000|96900000|2dfe8b61-c174-45d8-b7aa-cdb71773778a|dabe4ff2-012f-4549-b5ff-4c18f6a437f1",
+          ""
+        ],
+        [
+          "unconnected_items|245245000|112100000|F.Cu|4|5685f817-655d-4b41-9d77-7c56b201df92|da988ae8-ba25-4f97-bb3d-ac0f78385fb3",
+          ""
         ]
       ],
       "meta": {
@@ -292,7 +312,12 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "footprint_link_issues|3695700|508000|810a31d9-6957-438d-a289-9c917816bbfc|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
