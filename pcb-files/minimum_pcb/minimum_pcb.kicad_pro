@@ -94,19 +94,19 @@
           ""
         ],
         [
-          "lib_footprint_issues|163382565|115367436|5e9458cd-5648-4ea1-8b19-859ece89e66e|00000000-0000-0000-0000-000000000000",
+          "lib_footprint_issues|184000000|128500000|5e9458cd-5648-4ea1-8b19-859ece89e66e|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "silk_edge_clearance|252500000|106100000|2dfe8b61-c174-45d8-b7aa-cdb71773778a|3badb2ec-a09d-46ec-b8b0-9f3a955d4396",
+          "silk_edge_clearance|252500000|106100000|940b979b-381c-4aa8-8860-7dba651eaab8|3badb2ec-a09d-46ec-b8b0-9f3a955d4396",
           ""
         ],
         [
-          "silk_edge_clearance|252500000|96900000|2dfe8b61-c174-45d8-b7aa-cdb71773778a|dabe4ff2-012f-4549-b5ff-4c18f6a437f1",
+          "silk_edge_clearance|252500000|96900000|940b979b-381c-4aa8-8860-7dba651eaab8|dabe4ff2-012f-4549-b5ff-4c18f6a437f1",
           ""
         ],
         [
-          "unconnected_items|245245000|112100000|F.Cu|4|5685f817-655d-4b41-9d77-7c56b201df92|da988ae8-ba25-4f97-bb3d-ac0f78385fb3",
+          "unconnected_items|245245000|112100000|F.Cu|4|63d866fd-c84f-4e24-be1f-4ad02174aef7|da988ae8-ba25-4f97-bb3d-ac0f78385fb3",
           ""
         ]
       ],
