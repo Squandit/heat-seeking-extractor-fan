@@ -106,7 +106,7 @@
           ""
         ],
         [
-          "unconnected_items|245245000|112100000|F.Cu|4|63d866fd-c84f-4e24-be1f-4ad02174aef7|da988ae8-ba25-4f97-bb3d-ac0f78385fb3",
+          "unconnected_items|245245000|112100000|F.Cu|4|63d866fd-c84f-4e24-be1f-4ad02174aef7|2823d768-f11d-4fa9-9e6b-5ba51e7600ef",
           ""
         ]
       ],
@@ -582,9 +582,9 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "./",
       "specctra_dsn": "",
-      "step": "",
+      "step": "minimum_pcb.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -757,7 +757,7 @@
         "uuid": "b9066ff5-3e4e-4199-9971-c7997fcdaa8b"
       }
     ],
-    "used_designators": "#FLG1-5,#PWR1-68,BZ1-2,C1-2,C9-17,D1,F1,FB1,J1-14,M1,Q1-2,R1-15,RV1,SW1-2,U1-3,Y1",
+    "used_designators": "#FLG1-5,#PWR1-68,BZ1-2,C1-2,C9-19,D1,F1,FB1,J1-14,M1,Q1-2,R1-15,RV1,SW1-2,U1-3,Y1",
     "variants": []
   },
   "sheets": [
